@@ -22,8 +22,16 @@
   <img width="12" />
   <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" height="40" alt="javascript logo"  />
   <img width="12" />
- 
-
+  <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWg9aD7P9oC3LDGwYWLQ8wQ-oc-8EEtZ471w&s" height="40" alt="javascript logo"  />
+  <img width="12" />
   
   
 </div>
