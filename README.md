@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" height="40" alt="javascript logo"  />
   <img width="12" />
- https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png
+ 
 
   
   
