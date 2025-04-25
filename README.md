@@ -1,5 +1,5 @@
 # 💫 Hi everyone I am Tuba. 
-🔭 I am currently working on web design and developing applications related to it using HTML and CSS.I am also trying to improve myself in Python and  Javascript by practicing and experimenting. <br>💻 Working on World University Rankings (SPA) Version 2.0 <br>⚡ Just trying to develop things 
+🔭 I am currently working on web design and developing applications related to it using HTML and CSS.I am also trying to improve myself in Python and  Javascript by practicing and experimenting. <br>💻 Working on World University Rankings (SPA) Version 2.0 <br>
 <br>
 
 # 🌐 Socials:
