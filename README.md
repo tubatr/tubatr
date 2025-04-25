@@ -35,8 +35,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thrturker1&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thrturker1&theme=monokai&hide_border=false)<br/>
+
 
 
 ---
