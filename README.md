@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" height="40" alt="javascript logo"  />
