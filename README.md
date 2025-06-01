@@ -36,9 +36,12 @@
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=tubatr&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tubatr&theme=monokai&hide_border=false)<br/>
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thrturker1&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
