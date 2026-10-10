@@ -2,11 +2,6 @@
 🔭 I am currently working on web design and developing applications related to it using HTML and CSS.I am also trying to improve myself in Python and  Javascript by practicing and experimenting. <br>💻 Working on World University Rankings (SPA) Version 2.0 <br>
 <br>
 
-# 🌐 Socials:
-<div align="start">
-  <a href="https://www.linkedin.com/in/hatice-tuba-t%C3%BCrker-739a412b8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
   
 </div>
 
