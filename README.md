@@ -1,11 +1,8 @@
 <!-- Animated Header -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:06B6D4&height=230&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15"
-    width="100%"
-    alt="Tuba's animated profile header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Pastel blue pink and purple profile header" />
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
 </div>
