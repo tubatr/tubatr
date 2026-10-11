@@ -85,7 +85,7 @@ A single-page application project focused on presenting university ranking infor
 </div>
 
 ---
-![Profile views](https://viewcounter.live/tubatr)
+
 
 
 <br/>
