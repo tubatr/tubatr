@@ -85,9 +85,7 @@ A single-page application project focused on presenting university ranking infor
 </div>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tubatr&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=tubatr)
 
 
 <br/>
