@@ -85,7 +85,7 @@ A single-page application project focused on presenting university ranking infor
 </div>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=tubatr)
+![Profile views](https://viewcounter.live/tubatr)
 
 
 <br/>
