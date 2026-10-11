@@ -6,13 +6,8 @@
     alt="Tuba's animated profile header"
   />
 </div>
-
-<!-- Typing Animation -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
 </div>
 
 <br/>
