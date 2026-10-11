@@ -7,7 +7,7 @@
   />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
 </div>
 
 <br/>
@@ -92,12 +92,9 @@ A single-page application project focused on presenting university ranking infor
 
 <!-- Animated Footer -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0F172A&height=120&section=footer"
-    width="100%"
-    alt="Decorative footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=230&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=333333&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=333333" width="100%" alt="Tuba's pastel profile header" />
 </div>
+
 
 <div align="center">
   <i>Learning, building, and improving — one project at a time.</i>
