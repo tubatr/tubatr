@@ -1,48 +1,115 @@
-# Hi, I'm Tuba
+<!-- Animated Header -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:06B6D4&height=230&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15"
+    width="100%"
+    alt="Tuba's animated profile header"
+  />
+</div>
 
-**Computer Engineering Student | Aspiring Software Developer**
+<!-- Typing Animation -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building"
+    alt="Typing animation"
+  />
+</div>
 
-I'm a Computer Engineering student interested in building web applications, exploring software development, and learning how technology can solve real-world problems.
+<br/>
+
+<!-- About Me -->
+## About Me
+
+Hi! I'm **Tuba**, a Computer Engineering student passionate about software development and emerging technologies.
 
 - Currently developing my skills in **HTML, CSS, JavaScript, and Python**
 - Exploring **React** and modern web development
 - Working on **World University Rankings (SPA) — Version 2.0**
-- Interested in **AI-powered applications, automation, and intelligent software systems**
-- Learning by building projects, experimenting, and continuously improving my skills
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" alt="HTML, CSS, JavaScript, Python, C and C++" />
-</p>
-
-**Frameworks & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,git,github,vscode" alt="React, Git, GitHub and Visual Studio Code" />
-</p>
-
-## Featured Projects
-
-- **World University Rankings (SPA) — Version 2.0**  
-  A single-page application project focused on presenting university ranking information.
-
-- **More projects coming soon**  
-  Exploring new ideas and turning what I learn into practical projects.
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true" alt="Tuba's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+- Interested in **AI-powered applications, intelligent systems, and automation**
+- Learning by building projects, experimenting, and solving problems
 
 ---
 
-*Learning, building, and improving — one project at a time.*
+<!-- Tech Stack -->
+## Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp&theme=dark" alt="Programming languages" />
+
+### Frameworks & Development Tools
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" alt="Frameworks and development tools" />
+
+</div>
+
+---
+
+<!-- Featured Projects -->
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/tubatr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
+</a>
+
+</div>
+
+**World University Rankings (SPA) — Version 2.0**
+
+A single-page application project focused on presenting university ranking information.
+
+> Note: Update the repository name in the project card URL if your actual repository uses a different name.
+
+---
+
+<!-- GitHub Analytics -->
+## GitHub Analytics
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used programming languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</div>
+
+---
+
+<!-- Profile Views -->
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=tubatr&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+</div>
+
+<br/>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0F172A&height=120&section=footer"
+    width="100%"
+    alt="Decorative footer"
+  />
+</div>
+
+<div align="center">
+  <i>Learning, building, and improving — one project at a time.</i>
+</div>
