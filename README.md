@@ -2,7 +2,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Tuba's pastel profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Tuba's profile header" />
 
 </div>
 
@@ -15,7 +15,6 @@
 
 <br/>
 
-<!-- About Me -->
 ## About Me
 
 Hi! I'm **Tuba**, a Computer Engineering student passionate about software development and emerging technologies.
@@ -28,7 +27,6 @@ Hi! I'm **Tuba**, a Computer Engineering student passionate about software devel
 
 ---
 
-<!-- Tech Stack -->
 ## Tech Stack & Tools
 
 <div align="center">
@@ -39,19 +37,20 @@ Hi! I'm **Tuba**, a Computer Engineering student passionate about software devel
 
 ### Frameworks & Development Tools
 
-<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" alt="Frameworks and development tools" />
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" alt="Development tools" />
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tubatr/World-University-Rankings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
-  </a>
+
+<a href="https://github.com/tubatr/World-University-Rankings">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
+</a>
+
 </div>
 
 ### World University Rankings (SPA) — Version 2.0
@@ -62,38 +61,34 @@ A single-page application focused on presenting and exploring university ranking
 
 ---
 
-
-<!-- GitHub Analytics -->
 ## GitHub Analytics
 
 <div align="center">
 
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub statistics" />
+<a href="https://github.com/tubatr">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
 
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages" />
+<a href="https://github.com/tubatr">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak" />
+<a href="https://github.com/tubatr">
+  <img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
 ---
 
----
-
-<!-- Footer -->
 <div align="center">
 
-  <i>Learning, building, and improving — one project at a time.</i>
+<i>Learning, building, and improving — one project at a time.</i>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=120&section=footer" width="100%" alt="Pastel profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=120&section=footer" width="100%" alt="Pastel footer" />
 
 </div>
