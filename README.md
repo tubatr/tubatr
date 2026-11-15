@@ -49,11 +49,9 @@ Hi! I'm **Tuba**, a Computer Engineering student passionate about software devel
 ## Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/tubatr/World-University-Rankings">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
-</a>
-
+  <a href="https://github.com/tubatr/World-University-Rankings">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
+  </a>
 </div>
 
 ### World University Rankings (SPA) — Version 2.0
@@ -64,20 +62,28 @@ A single-page application focused on presenting and exploring university ranking
 
 ---
 
+
 <!-- GitHub Analytics -->
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used programming languages" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak" />
 
 </div>
+
+---
 
 ---
 
