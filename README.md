@@ -63,23 +63,23 @@ A single-page application focused on presenting and exploring university ranking
 
 ## GitHub Analytics
 
+
+## GitHub Analytics
+
 <div align="center">
 
-<a href="https://github.com/tubatr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</a>
+  <a href="https://github.com/tubatr">
+    <img src="https://img.shields.io/badge/GitHub-tubatr-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 
-<a href="https://github.com/tubatr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/tubatr">
-  <img src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
+  <a href="https://github.com/tubatr?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-8EC5FC?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
 
 </div>
+
+---
+
 
 ---
 
