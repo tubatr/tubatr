@@ -2,16 +2,12 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240§ion=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Tuba's profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=220§ion=header&text=Hi,%20I'm%20Tuba&fontSize=50&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20QA%20%26%20Testing%20%7C%20AI&descAlignY=60&descSize=14&descColor=202033" width="100%" alt="Tuba's profile header" />
 
 </div>
 
-<!-- ==================== TYPING ANIMATION ==================== -->
-
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=202033¢er=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=202033¢er=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Software+Quality+Assurance+%26+Testing;Building+Web+Applications;Exploring+AI+%26+Automation" alt="Typing Animation" />
 </div>
 
 <br/>
