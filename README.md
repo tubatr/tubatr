@@ -1,12 +1,14 @@
 
-<!-- Animated Header -->
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Tuba's profile header" />
 
 </div>
 
-<!-- Typing Animation -->
+<!-- ==================== TYPING ANIMATION ==================== -->
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=8EC5FC&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
@@ -14,6 +16,8 @@
 </div>
 
 <br/>
+
+<!-- ==================== ABOUT ME ==================== -->
 
 ## About Me
 
@@ -26,6 +30,8 @@ Hi! I'm **Tuba**, a Computer Engineering student passionate about software devel
 - Learning by building projects, experimenting, and solving problems.
 
 ---
+
+<!-- ==================== TECH STACK ==================== -->
 
 ## Tech Stack & Tools
 
@@ -43,12 +49,15 @@ Hi! I'm **Tuba**, a Computer Engineering student passionate about software devel
 
 ---
 
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
 ## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/tubatr/World-University-Rankings">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
+  <img src="./profile/world-university-rankings.svg"
+       alt="World University Rankings project" />
 </a>
 
 </div>
@@ -61,33 +70,43 @@ A single-page application focused on presenting and exploring university ranking
 
 ---
 
-
+<!-- ==================== GITHUB ANALYTICS ==================== -->
 
 ## GitHub Analytics
 
 <div align="center">
 
-  <a href="https://github.com/tubatr">
-    <img src="https://img.shields.io/badge/GitHub-tubatr-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
+<a href="https://github.com/tubatr">
+  <img height="165"
+       src="./profile/stats.svg"
+       alt="GitHub statistics" />
+</a>
 
-  <a href="https://github.com/tubatr?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-8EC5FC?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
+<a href="https://github.com/tubatr">
+  <img height="165"
+       src="./profile/top-langs.svg"
+       alt="Most used programming languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/tubatr">
+  <img src="./profile/streak.svg"
+       alt="GitHub contribution streak" />
+</a>
 
 </div>
 
 ---
 
-
----
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-<i>Learning, building, and improving — one project at a time.</i>
+  <i>Learning, building, and improving — one project at a time.</i>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=120&section=footer" width="100%" alt="Pastel footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=120&section=footer" width="100%" alt="Pastel footer" />
 
 </div>
