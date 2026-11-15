@@ -61,7 +61,6 @@ A single-page application focused on presenting and exploring university ranking
 
 ---
 
-## GitHub Analytics
 
 
 ## GitHub Analytics
