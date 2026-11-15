@@ -1,71 +1,190 @@
-<div align="center">
-
-# 👋 Hi, I'm Tuba
-### Computer Engineering Student | QA & Test Engineering | AI Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tubatr)
-
-</div>
-
----
-
-## 🚀 About Me
-
-Hi! I'm **Tuba**, a Computer Engineering student passionate about software development, quality assurance, and emerging technologies.
-
-- 💻 **Languages & Core:** Building strong foundations in **HTML, CSS, JavaScript, Python, C, and C++**
-- ⚛️ **Web Development:** Exploring **React** and modern Single Page Application (SPA) architectures
-- 🧪 **Quality Assurance (QA):** Writing structured test cases, executing manual functional tests, and validating edge cases
-- 🤖 **AI & Automation:** Interested in intelligent systems, AI-powered tools, and workflow automation
-- 🌱 **Mindset:** Learning by building projects, testing real-world scenarios, and solving problems
-
----
-
-## 🧰 Tech Stack & QA Tools
+<!-- Animated Header -->
 
 <div align="center">
 
-### Programming & Web
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,git,github,vscode&theme=dark" alt="Tech Stack" />
-
-<br/><br/>
-
-### Software Testing & Quality Assurance
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-E10098?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-02569B?style=for-the-badge&logo=codeforces&logoColor=white)
-![SauceDemo](https://img.shields.io/badge/SauceDemo-EF5350?style=for-the-badge&logo=saucelabs&logoColor=white)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-FF6F00?style=for-the-badge&logo=jira&logoColor=white)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,25:E0C3FC,50:FBC2EB,75:A6C1EE,100:8EC5FC&height=240&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=202033&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=202033" width="100%" alt="Pastel blue pink and purple profile header" />
 
 </div>
 
----
 
-## 💼 Featured Projects & QA Work
 
-### 🌐 World University Rankings (SPA) — Version 2.0
-> A single-page web application designed to present and filter global university ranking data with a clean user interface.
-* **Tech:** HTML, CSS, JavaScript, React
-* **Repository:** [github.com/tubatr/World-University-Rankings](https://github.com/tubatr) *(Depo adını kendi repo adınla güncelleyebilirsin)*
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Web+Applications;Exploring+AI+%26+Automation;Learning+by+Building" alt="Typing animation" />
+
+</div>
+
+
 
 <br/>
 
-### 🔍 SauceDemo Login Test Suite (Manual QA)
-> A comprehensive manual functional test suite verifying authentication workflows, boundary conditions, and error handling on the **SauceDemo** platform.
 
-* **Test Environment:** Web Browser | **Test Type:** Manual Functional Testing
 
-| Test Case ID | Test Scenario | Test Data | Expected Result | Status |
-| :--- | :--- | :--- | :--- | :---: |
-| **TC-LOGIN-001** | Login with valid credentials | `standard_user` / valid pass | Redirected to the Products page | ✅ **Pass** |
-| **TC-LOGIN-002** | Login with empty username & password | Username: *empty*, Pass: *empty* | Prevented; `Username is required` error | ✅ **Pass** |
-| **TC-LOGIN-003** | Login with empty password | `standard_user` / Pass: *empty* | Prevented; `Password is required` error | ✅ **Pass** |
-| **TC-LOGIN-004** | Login with invalid password | `standard_user` / `wrongpassword123` | Prevented; credential mismatch error | ✅ **Pass** |
-| **TC-LOGIN-005** | Login with invalid username | `wrong_user_123` / valid pass | Prevented; credential mismatch error | ✅ **Pass** |
+<!-- About Me -->
+
+## About Me
+
+
+
+Hi! I'm **Tuba**, a Computer Engineering student passionate about software development and emerging technologies.
+
+
+
+Currently developing my skills in **HTML, CSS, JavaScript, and Python**
+Exploring **React** and modern web development
+Working on **World University Rankings (SPA) — Version 2.0**
+Interested in **AI-powered applications, intelligent systems, and automation**
+Learning by building projects, experimenting, and solving problems
+
 
 ---
 
+
+
+<!-- Tech Stack -->
+
+## Tech Stack & Tools
+
+
+
 <div align="center">
-  <i>✨ Learning, testing, building, and improving — one project at a time.</i>
+
+
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp&theme=dark" alt="Programming languages" />
+
+
+
+### Frameworks & Development Tools
+
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" alt="Frameworks and development tools" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+<!-- Featured Projects -->
+
+## Featured Projects
+
+
+
+<div align="center">
+
+
+
+<a href="https://github.com/tubatr">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tubatr&repo=World-University-Rankings&theme=tokyonight&hide_border=true" alt="World University Rankings project" />
+
+</a>
+
+
+
+</div>
+
+
+
+**World University Rankings (SPA) — Version 2.0**
+
+
+
+A single-page application project focused on presenting university ranking information.
+
+
+
+> Note: Update the repository name in the project card URL if your actual repository uses a different name.
+
+
+
+---
+
+
+
+<!-- GitHub Analytics -->
+
+## GitHub Analytics
+
+
+
+<div align="center">
+
+  <img
+
+    height="165"
+
+    src="https://github-readme-stats.vercel.app/api?username=tubatr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+
+    alt="GitHub statistics"
+
+  />
+
+  <img
+
+    height="165"
+
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubatr&layout=compact&theme=tokyonight&hide_border=true"
+
+    alt="Most used programming languages"
+
+  />
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+  <img
+
+    src="https://streak-stats.demolab.com?user=tubatr&theme=tokyonight&hide_border=true"
+
+    alt="GitHub contribution streak"
+
+  />
+
+</div>
+
+
+
+---
+
+
+
+
+
+
+
+<br/>
+
+
+
+<!-- Animated Footer -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:F5D0E8,100:DDD6FE&height=230&section=header&text=Hi,%20I'm%20Tuba&fontSize=52&fontColor=333333&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15&descColor=333333" width="100%" alt="Tuba's pastel profile header" />
+
+</div>
+
+
+
+
+
+<div align="center">
+
+  <i>Learning, building, and improving — one project at a time.</i>
+
 </div>
